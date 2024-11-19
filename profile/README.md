@@ -1,9 +1,7 @@
 # Welcome to the Remote Sensing of Environmental Changes (RSE) GitHub Page 🌍  
 
 The **Remote Sensing of Environmental Changes (RSE)** group focuses on developing innovative open-source tools and methods to monitor and analyze environmental changes. By combining multi-sensor satellite data with airborne observations—such as historical images and data from upcoming Earth observation missions—we aim to understand the spatiotemporal impacts of climate change on the cryosphere, forestry, and geomorphology.  
-
-## 🌟 Our Mission  
-To enhance the understanding of environmental processes through advanced remote sensing techniques, enabling actionable insights into climate change impacts on Earth's natural systems.  
+We aim to observe and understand related processes by combining multi-sensor satellite data with airborne observations, including historical images and upcoming earth observation missions.
 
 ## 🔬 Areas of Research  
 - **Cryosphere:** Monitoring glaciers, snow, and ice dynamics to assess climate change impacts.  
