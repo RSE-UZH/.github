@@ -14,7 +14,7 @@ We aim to observe and understand related processes by combining multi-sensor sat
 - **Dr. Francesco Ioli** - Postdoctoral Researcher  
 - **Lucas Kugler** - PhD Candidate
 - **Riccardo Pedrelli** - PhD Candidate
-- **Marius Rüetschi** - External PhD Candidate  
+- **Marius Rüetschi** - PhD Candidate at WSL
 
 ## 🤝 UZH Remote Sensing Laboratories (RSL) 
 The RSE group is part of the **Remote Sensing Laboratories (RSL)** in Zurich, which includes the following groups:  
