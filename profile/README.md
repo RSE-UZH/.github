@@ -3,24 +3,28 @@
 The **Remote Sensing of Environmental Changes (RSE)** group focuses on developing innovative open-source tools and methods to monitor and analyze environmental changes. By combining multi-sensor satellite data with airborne observations—such as historical images and data from upcoming Earth observation missions—we aim to understand the spatiotemporal impacts of climate change on the cryosphere, forestry, and geomorphology.  
 We aim to observe and understand related processes by combining multi-sensor satellite data with airborne observations, including historical images and upcoming earth observation missions.
 
-## 🔬 Areas of Research  
+## 🔬 Areas of Research
+
 - **Cryosphere:** Monitoring glaciers, snow, and ice dynamics to assess climate change impacts.  
 - **Forestry:** Quantifying changes in vegetation patterns and forest health.  
 - **Geomorphology:** Understanding landscape evolution and geomorphic processes through remote sensing.  
 
-## 🧑‍🤝‍🧑 Meet the Team  
+## 🧑‍🤝‍🧑 Meet the Team
+
 - **Prof. Dr. Livia Piermattei** - Professor, Group Leader  
-- **Dr. Clare Webster** - Academic Associate  
-- **Dr. Francesco Ioli** - Postdoctoral Researcher  
-- **Lucas Kugler** - PhD Candidate
-- **Riccardo Pedrelli** - PhD Candidate
+- [**Dr. Clare Webster**](https://github.com/c-webster) - Academic Associate  
+- [**Dr. Francesco Ioli**](https://github.com/franioli) - Postdoctoral Researcher  
+- [**Lucas Kugler**](https://github.com/lukugler) - PhD Candidate
+- [**Riccardo Pedrelli**](https://github.com/RicPedre) - PhD Candidate
+- [**Luis Gentner**](https://github.com/lqgentner) - PhD Candidate
 - **Marius Rüetschi** - PhD Candidate at WSL
 
-## 🤝 UZH Remote Sensing Laboratories (RSL) 
-The RSE group is part of the **Remote Sensing Laboratories (RSL)** in Zurich, which includes the following groups:  
-- **Earth System Science (ESS)**  
-- **Remote Sensing of Water Systems (RSWS)**  
-- **Spatial Genetics (SG)**  
-- **Remote Sensing (RS)**  
+## 🤝 UZH Remote Sensing Laboratories (RSL)
+
+The RSE group is part of the **Remote Sensing Laboratories (RSL)** in Zurich, which includes the following groups:
+- **Earth System Science (ESS)**
+- **Remote Sensing of Water Systems (RSWS)**
+- **Spatial Genetics (SG)**
+- **Remote Sensing (RS)**
 
 Together, we contribute to the long-standing and successful history of RSL in advancing remote sensing science.  
