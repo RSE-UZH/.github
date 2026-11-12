@@ -12,7 +12,8 @@ We aim to observe and understand related processes by combining multi-sensor sat
 ## 🧑‍🤝‍🧑 Meet the Team
 
 - **Prof. Dr. Livia Piermattei** - Professor, Group Leader  
-- [**Dr. Clare Webster**](https://github.com/c-webster) - Academic Associate  
+- [**Dr. Clare Webster**](https://github.com/c-webster) - Academic Associate
+- [**Dr. Enrico Mattea**](https://github.com/MatteaE) - Postdoctoral Researcher 
 - [**Dr. Francesco Ioli**](https://github.com/franioli) - Postdoctoral Researcher  
 - [**Lucas Kugler**](https://github.com/lukugler) - PhD Candidate
 - [**Riccardo Pedrelli**](https://github.com/RicPedre) - PhD Candidate
